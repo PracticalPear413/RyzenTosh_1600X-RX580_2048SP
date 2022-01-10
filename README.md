@@ -12,7 +12,7 @@ Wifi/BT Card: I haven't figured out the wifi part yet
 ## Guide
 
 Maxsun RX 580 2048SP does support spoofing but the hardware acceleration still doesn't work for some reason.
-So the only solution is to flash BIOS on your AMD GPU. I know it sounds scary but fear not.
+So the only solution is to flash BIOS on your AMD GPU. I know it sounds scary but fear not, Hackintosh is 100% possible.
 
 Boot into Windows and download GPU-Z, you'll find the GPU information here. Switch to the Advanced tab and select Memory and check what Memory chip you have.
 I had Samsung so I had to look for RX 570 BIOS that have support for Samsung chip.
