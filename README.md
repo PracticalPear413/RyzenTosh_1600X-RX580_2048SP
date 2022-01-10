@@ -1,5 +1,13 @@
 # Ryzentosh (AMD Ryzen 5 1600X & MAXSUN RX 580 2048SP)
 
+CPU: Ryzen 5 1600X
+GPU: MAXSUN RX 580 2048SP
+RAM: 8GB 3000MHz
+Motherboard/Laptop Make and Model: Gigabyte B450M DS3H 
+Audio Codec: Realtek
+Ethernet Card: Realtek
+Wifi/BT Card: I haven't figured out the wifi part yet
+
 Maxsun RX 580 2048SP does support spoofing but the hardware acceleration still doesn't work for some reason.
 So the only solution is to flash BIOS on your AMD GPU. I know it sounds scary but fear not.
 
